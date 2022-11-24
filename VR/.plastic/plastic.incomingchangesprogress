@@ -1,0 +1,68 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      3
+    ],
+    "SourceCsetId": 6,
+    "DestinationCsetId": 3,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/PickUp.cs",
+        "ItemId": 467,
+        "ParentItemId": 449,
+        "BaseRevId": 159,
+        "SourceRevId": 1537,
+        "DestinationRevId": 159
+      },
+      {
+        "Path": "/Assets/closedoor.anim",
+        "ItemId": 490,
+        "ParentItemId": 449,
+        "BaseRevId": 174,
+        "SourceRevId": 1535,
+        "DestinationRevId": 174
+      },
+      {
+        "Path": "/Assets/doorclose.anim",
+        "ItemId": 494,
+        "ParentItemId": 449,
+        "BaseRevId": 178,
+        "SourceRevId": 1536,
+        "DestinationRevId": 178
+      },
+      {
+        "Path": "/Assets/TriggerDoorController.cs",
+        "ItemId": 478,
+        "ParentItemId": 449,
+        "BaseRevId": 831,
+        "SourceRevId": 1539,
+        "DestinationRevId": 831
+      },
+      {
+        "Path": "/Assets/_Barking_Dog/3D Free Modular Kit/Test_Map.unity",
+        "ItemId": 659,
+        "ParentItemId": 553,
+        "BaseRevId": 972,
+        "SourceRevId": 1534,
+        "DestinationRevId": 972
+      },
+      {
+        "Path": "/Assets/moveilergeri.cs",
+        "ItemId": 1088,
+        "ParentItemId": 449,
+        "BaseRevId": 841,
+        "SourceRevId": 1572,
+        "DestinationRevId": 841
+      },
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 141,
+        "ParentItemId": 127,
+        "BaseRevId": 846,
+        "SourceRevId": 1540,
+        "DestinationRevId": 846
+      }
+    ]
+  }
+]
